@@ -5,6 +5,6 @@ NFC Tag Emulation mit Smartcard-Lesegeräten
  * [SCL3711](https://www.scm-pc-card.de/kartenleser/identiv-leser/kontaktbehaftet/67/scm-scl3711-kontaktloser-leser-fuer-chipkarten-und-nfc-905169)
 
 NFC Type
- * Type 2
- * Type 3 mit nfcpy: emulate_type3.py
- * Type 4
+ * Type 2: TODO
+ * Type 3: mit SCL3711 und nfcpy
+ * Type 4: TODO
